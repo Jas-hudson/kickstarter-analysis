@@ -30,6 +30,10 @@
 - Outcomes based on Funding Goals
 
 - Limitations of this dataset
+  - Marketing budget
+  - Type of advertising utilized
+  - Geographical location and population of campaign cities
+  - Demographic of backers  -  
 
 - Possible tables and/or graphs to consider for further analysis 
 
