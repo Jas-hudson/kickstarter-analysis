@@ -1,6 +1,7 @@
-# Kickstarting with Excel
+# Analysis of Theatre Campaign Outcomes
 
 ## Overview of Project
+
 
 ### Purpose
 
