@@ -33,7 +33,7 @@
   - Marketing budget
   - Type of advertising utilized
   - Geographical location and population of campaign cities
-  - Demographic of backers  -  
+  - Demographic of backers  
 
 - Possible tables and/or graphs to consider for further analysis of the available data
   - Outcomes based on length of campaign(# of days, weeks, months)
