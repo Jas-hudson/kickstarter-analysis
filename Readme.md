@@ -27,8 +27,9 @@ Obtaining pledge and goal currency conversion into a single currency (USD, EUR, 
   - May, June, and July also presents the highest trending failure curve
 
 - **Outcomes based on Funding Goals *(based on count not currency)***
-  - Campaign goals between 10000 and 35000 were less successful
-  -  
+  - Campaign goals between 10000 and 35000 were least successful
+  - Campaign goals between 35000 and 40000 were more successful
+  - Campaigns less than 5000 were more successful compared to campaigns greater than 40000 
   
 - **Limitations of this dataset**
   - Marketing budget
