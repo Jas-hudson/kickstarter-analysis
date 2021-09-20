@@ -21,11 +21,15 @@
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+- Outcomes based on Launch Date
+  - May, June, and July had the highest successful campaigns
+  - May, June, and July also presents the highest trending failure curve
 
-- What can you conclude about the Outcomes based on Goals?
 
-- What are some limitations of this dataset?
 
-- What are some other possible tables and/or graphs that we could create?
+- Outcomes based on Funding Goals
+
+- Limitations of this dataset
+
+- Possible tables and/or graphs to consider for further analysis 
 
