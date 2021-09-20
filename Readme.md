@@ -35,5 +35,10 @@
   - Geographical location and population of campaign cities
   - Demographic of backers  -  
 
-- Possible tables and/or graphs to consider for further analysis 
+- Possible tables and/or graphs to consider for further analysis of the available data
+  - Outcomes based on length of campaign(# of days, weeks, months)
+  - Outcomes based on subcategories (television, shorts, plays, etc)
+  - Outcomes based on goal vs # of backers
+  - Outcomes based on country and/or currency
+      
 
