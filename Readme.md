@@ -1,7 +1,7 @@
 # Analysis of Theatre Campaign Outcomes
 
 ## Overview of Project
-
+*Analysis of previous Kickstarter Campaigns to determine outcomes in relation to launch dates and funding goals* 
 
 ### Purpose
 
