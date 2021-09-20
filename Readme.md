@@ -4,6 +4,7 @@
 *Analysis of previous Kickstarter Campaigns to determine outcomes in relation to launch dates and funding goals* 
 
 ### Purpose
+*To determine any trends in outcome of previous theatre campaigns related to launch dates and funding goals*
 
 ## Analysis and Challenges
 
