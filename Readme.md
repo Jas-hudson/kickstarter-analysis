@@ -17,7 +17,7 @@
 
 
 ### Challenges and Difficulties Encountered
-*This is a very broad analysis based solely on campaign outcomes (Successful,Failed,Canceled), launch dates, and funding goals.  A deeper analysis is needed to determine more precise trends for any future campaign planning*
+*This is a very broad analysis based solely on campaign outcomes (Successful, Failed, Canceled), launch dates, and funding goals.  A deeper analysis is needed to determine more precise trends for any future campaign planning*
 
 ## Results
 
